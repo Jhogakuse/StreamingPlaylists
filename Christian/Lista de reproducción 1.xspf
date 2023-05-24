@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <trackList>
+    <track>
+      <location>http://stream.jewishmusicstream.com:8000/stream</location>
+      <title>Jewish Music Stream</title>
+    </track>
+    <track>
+      <location>https://dattavolt.com/8164/stream</location>
+      <title>RRI</title>
+    </track>
+    <track>
+      <location>http://radio.spiritmedia.mx:8000/cambio1440</location>
+      <title>Cambio1440</title>
+    </track>
+    <track>
+      <location>http://vaughanradioweb.streaming-pro.com:8057/;streamdemo_mp3.nsv</location>
+      <title>Vaughan radio</title>
+    </track>
+    <track>
+      <location>https://ais-sa1.streamon.fm/7131_64k.aac</location>
+      <title>praise Live</title>
+    </track>
+  </trackList>
+</playlist>
